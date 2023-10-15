@@ -24,6 +24,19 @@ spring:
     time-zone: America/Toronto
     date-format: "yyyy-MM-dd HH:mm:ss" 
     
+ # Email Settings
+  mail:
+    username: academymailsender@gmail.com
+    password: ctplgqwewdpwrqqe
+    host: smtp.gmail.com
+    port: 587
+    protocol: smtp
+    properties:
+      mail:
+        smtp:
+          auth: true
+          starttls:
+            enable: true
     
   # Common Database Settings
   sql:
