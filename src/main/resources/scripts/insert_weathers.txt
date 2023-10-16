@@ -1,0 +1,18 @@
+INSERT INTO "Weather"("cityId", "userId", "weatherStatusId", description, icon, sunrise, sunset, temp, "feelsLike", "tempMin", "tempMax", pressure, humidity, visibility, "windSpeed", "windDirection", "cloudsAll", "updatedOn")
+	VALUES (1, 1, 601, 'snow', '13n', '2023-01-13 07:49:10', '2023-01-13 17:02:57', -2.20, -9.2, -2.81, -1.34, 1007, 90, 2816, 340, 10.29, 100, CURRENT_TIMESTAMP);
+INSERT INTO "Weather"("cityId", "userId", "weatherStatusId", description, icon, sunrise, sunset, temp, "feelsLike", "tempMin", "tempMax", pressure, humidity, visibility, "windSpeed", "windDirection", "cloudsAll", "updatedOn")
+	VALUES (1, 1, 601, 'snow', '13n', '2023-01-13 07:49:10', '2023-01-13 17:02:57', -2.20, -9.2, -2.81, -1.34, 1007, 90, 2816, 340, 10.29, 100, CURRENT_TIMESTAMP);
+INSERT INTO "Weather"("cityId", "userId", "weatherStatusId", description, icon, sunrise, sunset, temp, "feelsLike", "tempMin", "tempMax", pressure, humidity, visibility, "windSpeed", "windDirection", "cloudsAll", "updatedOn")
+	VALUES (1, 1, 601, 'snow', '13n', '2023-01-13 07:49:10', '2023-01-13 17:02:57', -2.20, -9.2, -2.81, -1.34, 1007, 90, 2816, 340, 10.29, 100, CURRENT_TIMESTAMP);
+INSERT INTO "Weather"("cityId", "userId", "weatherStatusId", description, icon, sunrise, sunset, temp, "feelsLike", "tempMin", "tempMax", pressure, humidity, visibility, "windSpeed", "windDirection", "cloudsAll", "updatedOn")
+	VALUES (1, 1, 601, 'snow', '13n', '2023-01-13 07:49:10', '2023-01-13 17:02:57', -2.20, -9.2, -2.81, -1.34, 1007, 90, 2816, 340, 10.29, 100, CURRENT_TIMESTAMP);
+INSERT INTO "Weather"("cityId", "userId", "weatherStatusId", description, icon, sunrise, sunset, temp, "feelsLike", "tempMin", "tempMax", pressure, humidity, visibility, "windSpeed", "windDirection", "cloudsAll", "updatedOn")
+	VALUES (1, 1, 601, 'snow', '13n', '2023-01-13 07:49:10', '2023-01-13 17:02:57', -2.20, -9.2, -2.81, -1.34, 1007, 90, 2816, 340, 10.29, 100, CURRENT_TIMESTAMP);
+INSERT INTO "Weather"("cityId", "userId", "weatherStatusId", description, icon, sunrise, sunset, temp, "feelsLike", "tempMin", "tempMax", pressure, humidity, visibility, "windSpeed", "windDirection", "cloudsAll", "updatedOn")
+	VALUES (1, 1, 601, 'snow', '13n', '2023-01-13 07:49:10', '2023-01-13 17:02:57', -2.20, -9.2, -2.81, -1.34, 1007, 90, 2816, 340, 10.29, 100, CURRENT_TIMESTAMP);
+INSERT INTO "Weather"("cityId", "userId", "weatherStatusId", description, icon, sunrise, sunset, temp, "feelsLike", "tempMin", "tempMax", pressure, humidity, visibility, "windSpeed", "windDirection", "cloudsAll", "updatedOn")
+	VALUES (1, 1, 601, 'snow', '13n', '2023-01-13 07:49:10', '2023-01-13 17:02:57', -2.20, -9.2, -2.81, -1.34, 1007, 90, 2816, 340, 10.29, 100, CURRENT_TIMESTAMP);
+INSERT INTO "Weather"("cityId", "userId", "weatherStatusId", description, icon, sunrise, sunset, temp, "feelsLike", "tempMin", "tempMax", pressure, humidity, visibility, "windSpeed", "windDirection", "cloudsAll", "updatedOn")
+	VALUES (1, 1, 601, 'snow', '13n', '2023-01-13 07:49:10', '2023-01-13 17:02:57', -2.20, -9.2, -2.81, -1.34, 1007, 90, 2816, 340, 10.29, 100, CURRENT_TIMESTAMP);
+INSERT INTO "Weather"("cityId", "userId", "weatherStatusId", description, icon, sunrise, sunset, temp, "feelsLike", "tempMin", "tempMax", pressure, humidity, visibility, "windSpeed", "windDirection", "cloudsAll", "updatedOn")
+	VALUES (1, 1, 601, 'snow', '13n', '2023-01-13 07:49:10', '2023-01-13 17:02:57', -2.20, -9.2, -2.81, -1.34, 1007, 90, 2816, 340, 10.29, 100, CURRENT_TIMESTAMP);	

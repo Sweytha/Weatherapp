@@ -57,6 +57,14 @@ public class Country implements Serializable {
 		this.cities = cities;
 	}
 	
+	public City addCity(City city) {
+		
+		this.getCities().add(city);
+		city.setCountry(this);
+
+		return city;
+	}
+	
 
 	@Override
 	public String toString() {

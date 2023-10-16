@@ -1,0 +1,2 @@
+INSERT INTO "User"("firstName", "lastName", username, phone, "emailId", "createdOn") 
+VALUES ('Carlos', 'Zegarra', 'carlos', '6471234567', 'carlos@bptn.com', CURRENT_TIMESTAMP);
